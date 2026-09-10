@@ -28,7 +28,7 @@
 
 <!-- Elegant Blue-Violet Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:4f46e5,100:7c3aed&height=3" width="100%" alt="divider" />
 </div>
 
 <!-- About Me Section -->
@@ -44,10 +44,10 @@ I'm also interested in **FinTech and AI in Finance**, supported by relevant cour
 
 <!-- Elegant Blue-Violet Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:4f46e5,100:7c3aed&height=3" width="100%" alt="divider" />
 </div>
 
-<!-- Technical Skills Section (Dashboard Style) -->
+<!-- Technical Skills Section -->
 <h2>Technical Skills</h2>
 
 <table>
@@ -84,7 +84,7 @@ I'm also interested in **FinTech and AI in Finance**, supported by relevant cour
 
 <!-- Elegant Blue-Violet Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:4f46e5,100:7c3aed&height=3" width="100%" alt="divider" />
 </div>
 
 <!-- Featured Projects Section -->
@@ -161,7 +161,7 @@ Built **Le Bulb**, a tool designed to help international students overcome langu
 
 <!-- Elegant Blue-Violet Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:4f46e5,100:7c3aed&height=3" width="100%" alt="divider" />
 </div>
 
 <!-- Education & Certifications Section (Two-Column Dashboard) -->
@@ -201,7 +201,7 @@ Built **Le Bulb**, a tool designed to help international students overcome langu
 
 <!-- Elegant Blue-Violet Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:4f46e5,100:7c3aed&height=3" width="100%" alt="divider" />
 </div>
 
 <!-- Current Focus Section -->
