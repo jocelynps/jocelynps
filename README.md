@@ -50,6 +50,9 @@ I'm also interested in **FinTech and AI in Finance**, supported by relevant cour
 <!-- Technical Skills Section -->
 <h2>Technical Skills</h2>
 
+<!-- Technical Skills Section -->
+<h2>Technical Skills</h2>
+
 <table>
   <tr>
     <td width="25%"><b>Programming Languages</b></td>
@@ -60,9 +63,9 @@ I'm also interested in **FinTech and AI in Finance**, supported by relevant cour
       <img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/R-5B5BD6?style=flat-square&logo=r&logoColor=white"/>
       <br><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-4F46E5?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-6366F1?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-7C3AED?style=flat-square&logo=nextdotjs&logoColor=white"/>
     </td>
   </tr>
   <tr>
