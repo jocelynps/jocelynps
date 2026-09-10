@@ -1,11 +1,10 @@
-<!-- Header Banner using the custom SVG you created -->
+<!-- Top Wavy Header Banner (Blue-Violet Gradient) -->
 <div align="center">
-  <img src="header.svg" width="100%" alt="Header Background" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jocelyn%20Paramita%20Siekhi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header Banner" />
 </div>
 
-<!-- Header Text (Positioned cleanly below the wave) -->
+<!-- Header Text -->
 <div align="center">
-  <h1>Jocelyn Paramita Siekhi</h1>
   <h3>Computer Science @ Zhejiang University</h3>
   
   <p>
@@ -19,7 +18,7 @@
     <a href="https://www.linkedin.com/in/jocelyn-paramita-441420313/">
       <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="jocelynprmts@gmail.com">
+    <a href="mailto:jocelynprmts@gmail.com">
       <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </p>
