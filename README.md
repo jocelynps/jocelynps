@@ -1,9 +1,9 @@
-<!-- Custom Blue-Violet Wavy Header (Hardcoded Colors) -->
+<!-- Custom Blue-Violet Wavy Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:7c3aed&height=250&section=header&text=Jocelyn%20Paramita%20Siekhi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 </div>
 
-<!-- Header Text (Positioned cleanly below the wave) -->
+<!-- Header Text -->
 <div align="center">
   <h3>Computer Science @ Zhejiang University</h3>
   
@@ -26,6 +26,11 @@
 
 <br>
 
+<!-- Elegant Blue-Violet Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="divider" />
+</div>
+
 <!-- About Me Section -->
 <h2>About Me</h2>
 
@@ -37,7 +42,12 @@ I'm also interested in **FinTech and AI in Finance**, supported by relevant cour
 
 <br>
 
-<!-- Technical Skills Section (Styled as a structured table for a unique look) -->
+<!-- Elegant Blue-Violet Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="divider" />
+</div>
+
+<!-- Technical Skills Section (Dashboard Style) -->
 <h2>Technical Skills</h2>
 
 <table>
@@ -71,6 +81,11 @@ I'm also interested in **FinTech and AI in Finance**, supported by relevant cour
 </table>
 
 <br>
+
+<!-- Elegant Blue-Violet Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="divider" />
+</div>
 
 <!-- Featured Projects Section -->
 <h2>Featured Projects</h2>
@@ -144,23 +159,27 @@ Built **Le Bulb**, a tool designed to help international students overcome langu
 
 <br>
 
-<!-- Education Section -->
-<h2>Education</h2>
+<!-- Elegant Blue-Violet Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="divider" />
+</div>
 
-**Zhejiang University**  
-*B.S. in Computer Science*  
-Hangzhou, China · Expected Graduation: **2028**
-
-**Relevant Coursework:**  
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `Databases` · `Fintech (AI in Finance)`
-
-<br>
-
-<!-- Certifications & Languages Section (Side-by-side layout) -->
-<h2>Certifications & Languages</h2>
+<!-- Education & Certifications Section (Two-Column Dashboard) -->
+<h2>Education & Certifications</h2>
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h4>Education</h4>
+      <b>Zhejiang University</b><br>
+      <i>B.S. in Computer Science</i><br>
+      Hangzhou, China · Expected Graduation: <b>2028</b><br><br>
+      <b>Relevant Coursework:</b><br>
+      <code>Data Structures & Algorithms</code><br>
+      <code>Object-Oriented Programming</code><br>
+      <code>Databases</code><br>
+      <code>Fintech (AI in Finance)</code>
+    </td>
     <td width="50%" valign="top">
       <h4>Certifications</h4>
       <ul>
@@ -168,8 +187,6 @@ Hangzhou, China · Expected Graduation: **2028**
         <li><b>IELTS 7.5</b></li>
         <li><b>HSK Level 5</b> — Mandarin Chinese</li>
       </ul>
-    </td>
-    <td width="50%" valign="top">
       <h4>Languages</h4>
       <ul>
         <li><b>Indonesian</b> — Native</li>
@@ -181,6 +198,11 @@ Hangzhou, China · Expected Graduation: **2028**
 </table>
 
 <br>
+
+<!-- Elegant Blue-Violet Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" alt="divider" />
+</div>
 
 <!-- Current Focus Section -->
 <h2>Current Focus</h2>
