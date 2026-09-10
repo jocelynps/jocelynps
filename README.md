@@ -1,200 +1,218 @@
+<!-- Top Flowy Wave Background -->
 <div align="center">
-
-# Jocelyn Paramita Siekhi
-
-### Computer Science @ Zhejiang University
-
-<p>
-  <img src="https://img.shields.io/badge/Software%20Development-4F46E5?style=flat-square&logo=code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-6366F1?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data-7C3AED?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FinTech-2563EB?style=flat-square&logo=chartdotjs&logoColor=white"/>
-</p>
-
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:jocelynprmts@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="8" alt="gradient line" />
 </div>
 
----
+<!-- Header Section -->
+<div align="center">
+  <br>
+  <h1>✨ Jocelyn Paramita Siekhi ✨</h1>
+  <h3>💻 Computer Science @ Zhejiang University</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Software%20Development-4F46E5?style=for-the-badge&logo=code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AI%20%2F%20ML-6366F1?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Data-7C3AED?style=for-the-badge&logo=databricks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FinTech-2563EB?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  </p>
 
-## About Me
+  <p>
+    <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/jocelyn-paramita-441420313/)">
+      <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:jocelynprmts@gmail.com">
+      <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+  <br>
+</div>
 
-I'm a Computer Science student at **Zhejiang University**, with a focus on
-software development, data, and AI/ML.
+<!-- Flowy Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" alt="gradient line" />
+</div>
 
-I enjoy building practical applications and exploring how computational
-methods can be applied to real-world problems. My projects range from
-database-driven applications and systems programming to deep reinforcement
-learning for portfolio management.
+<br>
 
-I'm also interested in **FinTech and AI in Finance**, supported by relevant
-coursework and research experience.
+<!-- About Me Section -->
+<h2>🌊 About Me</h2>
 
----
+I'm a Computer Science student at **Zhejiang University**, with a focus on software development, data, and AI/ML.
 
-## Technical Skills
+I enjoy building practical applications and exploring how computational methods can be applied to real-world problems. My projects range from database-driven applications and systems programming to deep reinforcement learning for portfolio management.
 
-### Programming Languages
+I'm also interested in **FinTech and AI in Finance**, supported by relevant coursework and research experience.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-4F46E5?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-6366F1?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-5B5BD6?style=flat-square&logo=r&logoColor=white"/>
-</p>
+<br>
 
-### Computer Science & AI
+<!-- Technical Skills Section -->
+<h2>🛠️ Technical Skills</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-4F46E5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MySQL-6366F1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-5B5BD6?style=flat-square"/>
-</p>
+<table>
+  <tr>
+    <td width="30%"><b>Programming Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-4F46E5?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-6366F1?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/R-5B5BD6?style=flat-square&logo=r&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Computer Science & AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2563EB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Object--Oriented%20Programming-4F46E5?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MySQL-6366F1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Reinforcement%20Learning-5B5BD6?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Design & Productivity</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-4F46E5?style=flat-square&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Canva-6366F1?style=flat-square&logo=canva&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-### Design & Productivity
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Figma-4F46E5?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-6366F1?style=flat-square&logo=canva&logoColor=white"/>
-</p>
+<!-- Flowy Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" alt="gradient line" />
+</div>
 
----
+<br>
 
-## Featured Projects
+<!-- Featured Projects Section -->
+<h2>🚀 Featured Projects</h2>
 
 <details open>
-<summary><b>Cost-Sensitive Portfolio Policy Network — Deep RL for Portfolio Management</b></summary>
-
-**Course Research Project · Zhejiang University · July 2026**
-
-Reproduced and analyzed a 2022 IEEE TKDE paper's dual-stream deep
-reinforcement learning model for automated portfolio allocation.
+<summary><b>📈 Cost-Sensitive Portfolio Policy Network — Deep RL for Portfolio Management</b></summary>
+<br>
+<b>Course Research Project · Zhejiang University · July 2026</b><br>
+Reproduced and analyzed a 2022 IEEE TKDE paper's dual-stream deep reinforcement learning model for automated portfolio allocation.
 
 - Implemented a temporal convolution + LSTM architecture
 - Trained and backtested the model on **229 CSI 300 constituent stocks**
 - Used daily OHLC data from January 2020 to June 2021
-- Implemented a cost-sensitive reward function optimizing returns, risk,
-  and transaction costs
-- Benchmarked against **Buy-and-Hold (UBAH)** and
-  **Constant Rebalanced Portfolio (CRP)** baselines
+- Implemented a cost-sensitive reward function optimizing returns, risk, and transaction costs
+- Benchmarked against **Buy-and-Hold (UBAH)** and **Constant Rebalanced Portfolio (CRP)** baselines
 - Conducted out-of-sample backtesting and authored a formal research report
 
-**Python · Deep Reinforcement Learning · Portfolio Management**
-
+`Python` · `Deep Reinforcement Learning` · `Portfolio Management`
 </details>
 
 <details>
-<summary><b>CV Baja Makmur — Company Website</b></summary>
-
-**Web Developer Intern · January 2026 – February 2026**
-
-Built the company's website with functionality for monitoring operational
-information.
+<summary><b>🌐 CV Baja Makmur — Company Website</b></summary>
+<br>
+<b>Web Developer Intern · January 2026 – February 2026</b><br>
+Built the company's website with functionality for monitoring operational information.
 
 - Shipping status tracking
 - Stock and inventory level tracking
 - Payment status tracking
 
-**Web Development**
-
+`Web Development`
 </details>
 
 <details>
-<summary><b>Library Management System</b></summary>
-
-**Personal Project · 2025**
-
+<summary><b>📚 Library Management System</b></summary>
+<br>
+<b>Personal Project · 2025</b><br>
 A full-featured library management application built with Python and MySQL.
 
 - Book inventory management
 - Member card management
 - Borrow and return workflows
-- Dynamic multi-condition search across category, title, author, publisher,
-  year, and price ranges
+- Dynamic multi-condition search across category, title, author, publisher, year, and price ranges
 - Parameterized SQL query construction
 - Batch processing for bulk book imports and borrow/return operations
-- Data-integrity rules including stock validation and protection against
-  deleting cards with unreturned books
+- Data-integrity rules including stock validation and protection against deleting cards with unreturned books
 
-**Python · MySQL · SQL**
-
+`Python` · `MySQL` · `SQL`
 </details>
 
 <details>
-<summary><b>Custom Memory Pool Allocator</b></summary>
-
-**Personal Project · 2025**
-
-Implemented a custom STL-compatible memory pool allocator in C++ to reduce
-allocation overhead for standard containers such as `std::vector` and
-`std::map`.
+<summary><b>⚙️ Custom Memory Pool Allocator</b></summary>
+<br>
+<b>Personal Project · 2025</b><br>
+Implemented a custom STL-compatible memory pool allocator in C++ to reduce allocation overhead for standard containers such as `std::vector` and `std::map`.
 
 - Designed a custom memory allocation system
 - Built a randomized testing harness
 - Tested creation, resizing, element assignment, and destruction
 - Validated correctness and stability across **10,000+ container instances**
 
-**C++ · STL**
-
+`C++` · `STL`
 </details>
 
 <details>
-<summary><b>Le Bulb</b></summary>
-
-**Gemini Hackathon Project · 2026**
-
-Built **Le Bulb**, a tool designed to help international students overcome
-language barriers and study lecture content more efficiently.
-
-The project was developed as part of the Gemini Hackathon.
-
+<summary><b>💡 Le Bulb</b></summary>
+<br>
+<b>Gemini Hackathon Project · 2026</b><br>
+Built **Le Bulb**, a tool designed to help international students overcome language barriers and study lecture content more efficiently. The project was developed as part of the Gemini Hackathon.
 </details>
 
----
+<br>
 
-## Education
+<!-- Flowy Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" alt="gradient line" />
+</div>
 
-### Zhejiang University
+<br>
 
-**B.S. in Computer Science**  
+<!-- Education Section -->
+<h2>🎓 Education</h2>
+
+**Zhejiang University**  
+*B.S. in Computer Science*  
 Hangzhou, China · Expected Graduation: **2028**
 
-**Relevant Coursework**
+**Relevant Coursework:**  
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `Databases` · `Fintech (AI in Finance)`
 
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `Databases` ·
-`Fintech (AI in Finance)`
+<br>
 
----
+<!-- Certifications & Languages Section -->
+<h2>📜 Certifications & Languages</h2>
 
-## Certifications & Additional Coursework
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Certifications</h4>
+      <ul>
+        <li><b>Data Science Intensive Course</b> — CourseNet · 2024</li>
+        <li><b>IELTS 7.5</b></li>
+        <li><b>HSK Level 5</b> — Mandarin Chinese</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Languages</h4>
+      <ul>
+        <li>🇮🇩 <b>Indonesian</b> — Native</li>
+        <li>🇬🇧 <b>English</b> — IELTS 7.5</li>
+        <li>🇨🇳 <b>Mandarin Chinese</b> — HSK Level 5</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- **Data Science Intensive Course** — CourseNet · 2024
-- **IELTS 7.5**
-- **HSK Level 5** — Mandarin Chinese
+<br>
 
----
+<!-- Flowy Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" alt="gradient line" />
+</div>
 
-## Languages
+<br>
 
-| Language | Proficiency |
-|---|---|
-| 🇮🇩 Indonesian | Native |
-| 🇬🇧 English | IELTS 7.5 |
-| 🇨🇳 Mandarin Chinese | HSK Level 5 |
-
----
-
-## Current Focus
+<!-- Current Focus Section -->
+<h2>🎯 Current Focus</h2>
 
 ```text
 Computer Science
