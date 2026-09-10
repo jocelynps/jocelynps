@@ -1,41 +1,34 @@
-<!-- Top Flowy Wave Background -->
+<!-- Header Banner using the custom SVG you created -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="8" alt="gradient line" />
+  <img src="header.svg" width="100%" alt="Header Background" />
 </div>
 
-<!-- Header Section -->
+<!-- Header Text (Positioned cleanly below the wave) -->
 <div align="center">
-  <br>
-  <h1>✨ Jocelyn Paramita Siekhi ✨</h1>
-  <h3>💻 Computer Science @ Zhejiang University</h3>
+  <h1>Jocelyn Paramita Siekhi</h1>
+  <h3>Computer Science @ Zhejiang University</h3>
   
   <p>
-    <img src="https://img.shields.io/badge/Software%20Development-4F46E5?style=for-the-badge&logo=code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AI%20%2F%20ML-6366F1?style=for-the-badge&logo=pytorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Data-7C3AED?style=for-the-badge&logo=databricks&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FinTech-2563EB?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Software%20Development-4F46E5?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AI%20%2F%20ML-6366F1?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Data-7C3AED?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FinTech-2563EB?style=for-the-badge&logoColor=white"/>
   </p>
 
   <p>
-    <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/jocelyn-paramita-441420313/)">
+    <a href="https://www.linkedin.com/in/jocelyn-paramita-441420313/">
       <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:jocelynprmts@gmail.com">
+    <a href="jocelynprmts@gmail.com">
       <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </p>
-  <br>
-</div>
-
-<!-- Flowy Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" alt="gradient line" />
 </div>
 
 <br>
 
 <!-- About Me Section -->
-<h2>🌊 About Me</h2>
+<h2>About Me</h2>
 
 I'm a Computer Science student at **Zhejiang University**, with a focus on software development, data, and AI/ML.
 
@@ -46,7 +39,7 @@ I'm also interested in **FinTech and AI in Finance**, supported by relevant cour
 <br>
 
 <!-- Technical Skills Section -->
-<h2>🛠️ Technical Skills</h2>
+<h2>Technical Skills</h2>
 
 <table>
   <tr>
@@ -80,18 +73,11 @@ I'm also interested in **FinTech and AI in Finance**, supported by relevant cour
 
 <br>
 
-<!-- Flowy Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" alt="gradient line" />
-</div>
-
-<br>
-
 <!-- Featured Projects Section -->
-<h2>🚀 Featured Projects</h2>
+<h2>Featured Projects</h2>
 
 <details open>
-<summary><b>📈 Cost-Sensitive Portfolio Policy Network — Deep RL for Portfolio Management</b></summary>
+<summary><b>Cost-Sensitive Portfolio Policy Network — Deep RL for Portfolio Management</b></summary>
 <br>
 <b>Course Research Project · Zhejiang University · July 2026</b><br>
 Reproduced and analyzed a 2022 IEEE TKDE paper's dual-stream deep reinforcement learning model for automated portfolio allocation.
@@ -107,7 +93,7 @@ Reproduced and analyzed a 2022 IEEE TKDE paper's dual-stream deep reinforcement 
 </details>
 
 <details>
-<summary><b>🌐 CV Baja Makmur — Company Website</b></summary>
+<summary><b>CV Baja Makmur — Company Website</b></summary>
 <br>
 <b>Web Developer Intern · January 2026 – February 2026</b><br>
 Built the company's website with functionality for monitoring operational information.
@@ -120,7 +106,7 @@ Built the company's website with functionality for monitoring operational inform
 </details>
 
 <details>
-<summary><b>📚 Library Management System</b></summary>
+<summary><b>Library Management System</b></summary>
 <br>
 <b>Personal Project · 2025</b><br>
 A full-featured library management application built with Python and MySQL.
@@ -137,7 +123,7 @@ A full-featured library management application built with Python and MySQL.
 </details>
 
 <details>
-<summary><b>⚙️ Custom Memory Pool Allocator</b></summary>
+<summary><b>Custom Memory Pool Allocator</b></summary>
 <br>
 <b>Personal Project · 2025</b><br>
 Implemented a custom STL-compatible memory pool allocator in C++ to reduce allocation overhead for standard containers such as `std::vector` and `std::map`.
@@ -151,7 +137,7 @@ Implemented a custom STL-compatible memory pool allocator in C++ to reduce alloc
 </details>
 
 <details>
-<summary><b>💡 Le Bulb</b></summary>
+<summary><b>Le Bulb</b></summary>
 <br>
 <b>Gemini Hackathon Project · 2026</b><br>
 Built **Le Bulb**, a tool designed to help international students overcome language barriers and study lecture content more efficiently. The project was developed as part of the Gemini Hackathon.
@@ -159,15 +145,8 @@ Built **Le Bulb**, a tool designed to help international students overcome langu
 
 <br>
 
-<!-- Flowy Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" alt="gradient line" />
-</div>
-
-<br>
-
 <!-- Education Section -->
-<h2>🎓 Education</h2>
+<h2>Education</h2>
 
 **Zhejiang University**  
 *B.S. in Computer Science*  
@@ -179,7 +158,7 @@ Hangzhou, China · Expected Graduation: **2028**
 <br>
 
 <!-- Certifications & Languages Section -->
-<h2>📜 Certifications & Languages</h2>
+<h2>Certifications & Languages</h2>
 
 <table>
   <tr>
@@ -194,9 +173,9 @@ Hangzhou, China · Expected Graduation: **2028**
     <td width="50%" valign="top">
       <h4>Languages</h4>
       <ul>
-        <li>🇮🇩 <b>Indonesian</b> — Native</li>
-        <li>🇬🇧 <b>English</b> — IELTS 7.5</li>
-        <li>🇨🇳 <b>Mandarin Chinese</b> — HSK Level 5</li>
+        <li><b>Indonesian</b> — Native</li>
+        <li><b>English</b> — IELTS 7.5</li>
+        <li><b>Mandarin Chinese</b> — HSK Level 5</li>
       </ul>
     </td>
   </tr>
@@ -204,15 +183,8 @@ Hangzhou, China · Expected Graduation: **2028**
 
 <br>
 
-<!-- Flowy Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" alt="gradient line" />
-</div>
-
-<br>
-
 <!-- Current Focus Section -->
-<h2>🎯 Current Focus</h2>
+<h2>Current Focus</h2>
 
 ```text
 Computer Science
