@@ -1,9 +1,9 @@
-<!-- Top Wavy Header Banner (Blue-Violet Gradient) -->
+<!-- Custom Blue-Violet Wavy Header (Hardcoded Colors) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jocelyn%20Paramita%20Siekhi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:7c3aed&height=250&section=header&text=Jocelyn%20Paramita%20Siekhi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 </div>
 
-<!-- Header Text -->
+<!-- Header Text (Positioned cleanly below the wave) -->
 <div align="center">
   <h3>Computer Science @ Zhejiang University</h3>
   
@@ -37,12 +37,12 @@ I'm also interested in **FinTech and AI in Finance**, supported by relevant cour
 
 <br>
 
-<!-- Technical Skills Section -->
+<!-- Technical Skills Section (Styled as a structured table for a unique look) -->
 <h2>Technical Skills</h2>
 
 <table>
   <tr>
-    <td width="30%"><b>Programming Languages</b></td>
+    <td width="25%"><b>Programming Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/C%2B%2B-4F46E5?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -156,7 +156,7 @@ Hangzhou, China · Expected Graduation: **2028**
 
 <br>
 
-<!-- Certifications & Languages Section -->
+<!-- Certifications & Languages Section (Side-by-side layout) -->
 <h2>Certifications & Languages</h2>
 
 <table>
